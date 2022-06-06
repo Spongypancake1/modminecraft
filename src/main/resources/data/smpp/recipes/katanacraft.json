@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "smpp:blade"
+    },
+    "1": {
+      "item": "smpp:blade"
+    },
+    "2": {
+      "item": "smpp:handle"
+    }
+  },
+  "result": {
+    "item": "smpp:katana",
+    "count": 1
+  }
+}

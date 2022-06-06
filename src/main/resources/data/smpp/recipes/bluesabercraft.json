@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    " 4 ",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "smpp:lightessence"
+    },
+    "4": {
+      "item": "smpp:lightessence"
+    },
+    "6": {
+      "item": "minecraft:light_blue_dye"
+    },
+    "7": {
+      "item": "minecraft:nether_star"
+    },
+    "8": {
+      "item": "minecraft:light_blue_dye"
+    }
+  },
+  "result": {
+    "item": "smpp:bluesaber",
+    "count": 1
+  }
+}

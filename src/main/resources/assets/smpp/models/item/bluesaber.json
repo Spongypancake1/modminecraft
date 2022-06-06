@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "smpp:items/blue_saber_texture"
+  }
+}

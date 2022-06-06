@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "smpp:blocks/lightblock",
+    "up": "smpp:blocks/lightblock",
+    "north": "smpp:blocks/lightblock2",
+    "east": "smpp:blocks/lightblock2",
+    "south": "smpp:blocks/lightblock2",
+    "west": "smpp:blocks/lightblock2",
+    "particle": "smpp:blocks/lightblock"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "good_suop_texture",
+    "name": "Music Disk",
+    "description": "Onno Verbeek - noname",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:musiconno"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

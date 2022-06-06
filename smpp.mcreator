@@ -1,0 +1,313 @@
+{
+  "mod_elements": [
+    {
+      "name": "Blade",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blade"
+    },
+    {
+      "name": "Bladecraft",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bladecraft"
+    },
+    {
+      "name": "Katana",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "katana"
+    },
+    {
+      "name": "Katanacraft",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "katanacraft"
+    },
+    {
+      "name": "StoneArmor",
+      "type": "armor",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "StoneArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_armor_helmet_recipe"
+    },
+    {
+      "name": "StoneArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_armor_body_recipe"
+    },
+    {
+      "name": "StoneArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_armor_leggings_recipe"
+    },
+    {
+      "name": "StoneArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_armor_boots_recipe"
+    },
+    {
+      "name": "Diamondforest",
+      "type": "biome",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondforest"
+    },
+    {
+      "name": "Goudsuop",
+      "type": "musicdisc",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goudsuop"
+    },
+    {
+      "name": "Cryingobbeycraft",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cryingobbeycraft"
+    },
+    {
+      "name": "Leathersmelt",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "leathersmelt"
+    },
+    {
+      "name": "Lightessence",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lightessence"
+    },
+    {
+      "name": "Lightrecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lightrecipe"
+    },
+    {
+      "name": "Bluesaber",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bluesaber"
+    },
+    {
+      "name": "Greensaber",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "greensaber"
+    },
+    {
+      "name": "Redsaber",
+      "type": "tool",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redsaber"
+    },
+    {
+      "name": "Purplesaber",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purplesaber"
+    },
+    {
+      "name": "Bluesabercraft",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bluesabercraft"
+    },
+    {
+      "name": "PurpleSaberCraft",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_saber_craft"
+    },
+    {
+      "name": "RedSabercrfat",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_sabercrfat"
+    },
+    {
+      "name": "Greensabercraft",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "greensabercraft"
+    },
+    {
+      "name": "Lightblock",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lightblock"
+    },
+    {
+      "name": "Lightblockrecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lightblockrecipe"
+    },
+    {
+      "name": "King",
+      "type": "livingentity",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "king"
+    },
+    {
+      "name": "Emptytorch",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emptytorch"
+    },
+    {
+      "name": "Firefly",
+      "type": "livingentity",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "firefly"
+    },
+    {
+      "name": "Potionchaos",
+      "type": "potion",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "potionchaos"
+    },
+    {
+      "name": "Handle",
+      "type": "item",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "handle"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "musiconno",
+      "files": [
+        "name-the-bass"
+      ],
+      "category": "record",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.smpp.katana": "Katana",
+      "item.smpp.stone_armor_leggings": "Stone Leggings",
+      "entity.smpp.firefly": "Firefly",
+      "item.smpp.lightessence": "Lightessence",
+      "item.smpp.stone_armor_helmet": "Stone Helmet",
+      "item.smpp.king_spawn_egg": "King Spawn Egg",
+      "item.smpp.purplesaber": "Purple Saber",
+      "item.smpp.goudsuop": "Music Disk",
+      "item.minecraft.lingering_potion.effect.potionchaos": "Lingering Potion of Pure Chaos",
+      "biome.smpp.diamondforest": "Diamond Forest",
+      "item.smpp.redsaber": "Red Saber",
+      "block.smpp.lightblock": "Lightblock",
+      "item.smpp.emptytorch": "Empty torch",
+      "item.minecraft.splash_potion.effect.potionchaos": "Splash Potion of Pure Chaos",
+      "subtitles.musiconno": "",
+      "item.smpp.blade": "Blade",
+      "item.minecraft.tipped_arrow.effect.potionchaos": "Arrow of Pure Chaos",
+      "entity.smpp.king": "King",
+      "item.smpp.handle": "Handle",
+      "item.smpp.greensaber": "Green Saber",
+      "item.smpp.stone_armor_chestplate": "Stone Chestplate",
+      "item.smpp.goudsuop.desc": "Onno Verbeek - noname",
+      "item.smpp.firefly_spawn_egg": "Firefly Spawn Egg",
+      "item.minecraft.potion.effect.potionchaos": "Potion of Pure Chaos",
+      "item.smpp.bluesaber": "Bluesaber",
+      "item.smpp.stone_armor_boots": "Stone Boots"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "smpp",
+    "modName": "smpp",
+    "version": "1.0.0",
+    "author": "nijlv, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "net.mcreator.smpp",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}

@@ -1,0 +1,93 @@
+{
+  "_fv": 28,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Pure Chaos",
+    "splashName": "Splash Potion of Pure Chaos",
+    "lingeringName": "Lingering Potion of Pure Chaos",
+    "arrowName": "Arrow of Pure Chaos",
+    "effects": [
+      {
+        "effect": {
+          "value": "NAUSEA"
+        },
+        "duration": 3600,
+        "amplifier": 10,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "SLOWNESS"
+        },
+        "duration": 3600,
+        "amplifier": 10,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "MINING_FATIGUE"
+        },
+        "duration": 3600,
+        "amplifier": 10,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "BLINDNESS"
+        },
+        "duration": 3600,
+        "amplifier": 10,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "HUNGER"
+        },
+        "duration": 3600,
+        "amplifier": 10,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "WEAKNESS"
+        },
+        "duration": 3600,
+        "amplifier": 10,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "GLOWING"
+        },
+        "duration": 3600,
+        "amplifier": 1,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "LEVITATION"
+        },
+        "duration": 3600,
+        "amplifier": 10,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "SLOW_FALLING"
+        },
+        "duration": 3600,
+        "amplifier": 10,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "musiconno": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "smpp:name-the-bass",
+        "stream": true
+      }
+    ]
+  }
+}

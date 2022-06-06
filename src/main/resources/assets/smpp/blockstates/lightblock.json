@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "smpp:block/lightblock"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_fv": 28,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "redsabertexture",
+    "customModelName": "Normal",
+    "name": "Red Saber",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 2000.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 22.0,
+    "usageCount": 1500,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}
